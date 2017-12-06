@@ -1,2 +1,2 @@
 # spa-template
-Single Page Application Template
+Basic Web Project
